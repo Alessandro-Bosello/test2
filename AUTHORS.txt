@@ -1,3 +1,7 @@
 Alessandro Bosello
+<<<<<<< HEAD
 Bee Davyd
 Bee Davyd
+=======
+Nicola Hu
+>>>>>>> fade01f9859e09b889b3414373d3e155a42beea9
